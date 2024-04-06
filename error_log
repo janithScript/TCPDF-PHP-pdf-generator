@@ -1,0 +1,81 @@
+[26-Aug-2022 16:03:57 UTC] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ',' or ';' in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/index.php on line 41
+[26-Aug-2022 16:33:04 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 11
+[26-Aug-2022 16:48:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 56
+[26-Aug-2022 16:50:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 56
+[26-Aug-2022 16:51:50 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 13
+[26-Aug-2022 16:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 13
+[26-Aug-2022 16:53:51 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 13
+[26-Aug-2022 16:53:56 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 13
+[26-Aug-2022 16:55:09 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 13
+[26-Aug-2022 16:57:03 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 13
+[26-Aug-2022 16:57:26 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 13
+[26-Aug-2022 16:57:29 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/pdf_maker.php on line 13
+[26-Aug-2022 17:01:21 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[26-Aug-2022 17:01:50 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[26-Aug-2022 17:03:22 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:02:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:07:36 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:07:36 UTC] PHP Warning:  fopen(file:///uploads/INV_27082022_030836.pdf): failed to open stream: No such file or directory in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:09:37 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:09:37 UTC] PHP Warning:  fopen(): remote host file access not supported, file://uploads/INV_27082022_030837.pdf in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:09:37 UTC] PHP Warning:  fopen(file://uploads/INV_27082022_030837.pdf): failed to open stream: no suitable wrapper could be found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:10:22 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:10:22 UTC] PHP Warning:  fopen(): remote host file access not supported, file://uploads/INV_27082022_030822.pdf in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:10:22 UTC] PHP Warning:  fopen(file://uploads/INV_27082022_030822.pdf): failed to open stream: no suitable wrapper could be found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:11:22 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:11:46 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:12:23 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:13:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:13:33 UTC] PHP Warning:  fopen(file:///uploads/INV_27082022_030833.pdf): failed to open stream: No such file or directory in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:24:49 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:24:56 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:25:00 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:27:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:27:10 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:27:10 UTC] PHP Warning:  fopen(file:///uploads/INV_27082022_030810.pdf): failed to open stream: No such file or directory in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:27:31 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:27:31 UTC] PHP Warning:  fopen(file:///uploads/INV_27082022_030831.pdf): failed to open stream: No such file or directory in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:27:54 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:27:54 UTC] PHP Warning:  fopen(): remote host file access not supported, file://uploads/INV_27082022_030854.pdf in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:27:54 UTC] PHP Warning:  fopen(file://uploads/INV_27082022_030854.pdf): failed to open stream: no suitable wrapper could be found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:38:38 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:38:38 UTC] PHP Warning:  fopen(): remote host file access not supported, file://./uploads/INV_27082022_030838.pdf in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:38:38 UTC] PHP Warning:  fopen(file://./uploads/INV_27082022_030838.pdf): failed to open stream: no suitable wrapper could be found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:39:13 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:39:13 UTC] PHP Warning:  fopen(): remote host file access not supported, file://../uploads/INV_27082022_030813.pdf in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:39:13 UTC] PHP Warning:  fopen(file://../uploads/INV_27082022_030813.pdf): failed to open stream: no suitable wrapper could be found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:39:38 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:39:38 UTC] PHP Warning:  fopen(file:///INV_27082022_030838.pdf): failed to open stream: Permission denied in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:39:56 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:39:56 UTC] PHP Warning:  fopen(file:///INV_27082022_030856.pdf): failed to open stream: Permission denied in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:40:05 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 03:40:05 UTC] PHP Warning:  fopen(): remote host file access not supported, file://INV_27082022_030805.pdf in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 03:40:05 UTC] PHP Warning:  fopen(file://INV_27082022_030805.pdf): failed to open stream: no suitable wrapper could be found in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/include/tcpdf_static.php on line 1854
+[27-Aug-2022 04:31:33 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 05:34:01 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 05:34:10 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
+[27-Aug-2022 05:34:19 UTC] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/fbi1glfa0j7p/public_html/examples/generate_pdf/tcpdf_6_2_13/tcpdf/tcpdf.php on line 16542
