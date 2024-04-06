@@ -45,7 +45,7 @@ if ($count > 0) {
 	<tr><td colspan="2" align="center"><b>CONTACT: +94 77777777</b></td></tr>
 	<tr><td colspan="2" align="center"><b>WEBSITE: WWW.INFOPACE.ONLINE</b></td></tr>
 	<tr><td colspan="2"><b>CUST.NAME: '.$inv_mst_data_row['CUSTOMER_NAME'].' </b></td></tr>
-	<tr><td><b>MOB.NO: '.$inv_mst_data_row['CUSTOMER_MOBILENO'].' </b></td><td align="right"><b>BILL DT.: '.date("d-m-Y").'</b> </td></tr>
+	<tr><td><b>MOB.NO: '.$inv_mst_data_row['CUSTOMER_MOBILE_NO'].' </b></td><td align="right"><b>BILL DT.: '.date("d-m-Y").'</b> </td></tr>
 	<tr><td>&nbsp;</td><td align="right"><b>BILL NO.: '.$inv_mst_data_row['INV_NO'].'</b></td></tr>
 	<tr><td colspan="2" align="center"><b>INVOICE</b></td></tr>
 	<tr class="heading" style="background:#eee;border-bottom:1px solid #ddd;font-weight:bold;">
