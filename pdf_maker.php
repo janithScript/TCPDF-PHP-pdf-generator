@@ -10,7 +10,7 @@ $count = mysqli_num_rows($inv_mst_results);
 if ($count > 0) {
   $inv_mst_data_row = mysqli_fetch_array($inv_mst_results, MYSQLI_ASSOC);
 
-  // Code for generating PDF
+  //Code for generating PDF
   	$pdf = new TCPDF('P', PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
 	$pdf->SetCreator(PDF_CREATOR);  
 	//$pdf->SetTitle("Export HTML Table data to PDF using TCPDF in PHP");  
